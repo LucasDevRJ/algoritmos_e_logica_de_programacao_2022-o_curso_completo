@@ -18,8 +18,8 @@ Inicio
    genero <- "F"
    
    escreval("Produtos:")
-   escreval("O produto computador custa R$ ", preco1:2:2)
-   escreval("O produto TV custa R$ ", preco2:2:2)
+   escreval("O produto ", produto1, " custa R$ ", preco1:2:2)
+   escreval("O produto ", produto2, " custa R$ ", preco2:2:2)
    escreval
    escreval("Código = ", codigo:2)
    escreval
