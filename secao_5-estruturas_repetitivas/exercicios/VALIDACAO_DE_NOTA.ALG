@@ -17,7 +17,7 @@ Inicio
    escreva("Digite a segunda nota: ")
    leia(nota2)
    
-   enquanto (nota2 < 0.0) ou (nota2 > 10.0) faca
+   enquanto (nota2 < 0) ou (nota2 > 10) faca
       escreva("Valor invalido! Tente novamente: ")
       leia(nota2)
    fimenquanto
