@@ -8,7 +8,7 @@ int main() {
     char nome[50];
 
     printf("Digite o nome da pessoa: ");
-    scanf("%s", nome);
+    scanf("%s", nome); //lê texto sem quebra de linha
 
     printf("Digite o valor da idade: ");
     scanf("%d", &idade);
