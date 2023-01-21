@@ -13,7 +13,7 @@ int main()
 
     notaFinal = nota1 + nota2;
 
-    printf("\nNOTA FINAL = %.1lf", notaFinal);
+    printf("NOTA FINAL = %.1lf", notaFinal);
 
     if (notaFinal < 60.0) {
         printf("\nREPROVADO");

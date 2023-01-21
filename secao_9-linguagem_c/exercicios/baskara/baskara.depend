@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674259430 source:d:\workspace\cursos\udemy\algoritmos_e_logica_de_programacao_2022-o_curso_completo\secao_9-linguagem_c\exercicios\baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
