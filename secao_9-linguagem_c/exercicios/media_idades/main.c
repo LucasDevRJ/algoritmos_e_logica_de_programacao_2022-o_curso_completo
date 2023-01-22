@@ -19,10 +19,8 @@ int main()
             contador++;
             scanf("%d", &valor);
         }
+        media = (double) soma / contador;
+        printf("MEDIA = %.2lf", media);
     }
-
-    media = (double) soma / contador;
-    printf("MEDIA = %.2lf", media);
-
     return 0;
 }
